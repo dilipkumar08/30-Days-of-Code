@@ -10,7 +10,7 @@ int main()
     tips=(tips*mealCost)/100;
     fmc=mealCost+tips+tax;
     printf("%d",fmc);
-  getch();
-  return 0;    
+    getch();
+    return 0;    
     
 }
